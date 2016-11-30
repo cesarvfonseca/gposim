@@ -1,0 +1,2 @@
+# gposim
+Proyecto empresarial
